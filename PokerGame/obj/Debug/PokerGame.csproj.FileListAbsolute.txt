@@ -1,0 +1,7 @@
+C:\Users\death\RiderProjects\PokerGame\PokerGame\bin\Debug\PokerGame.exe
+C:\Users\death\RiderProjects\PokerGame\PokerGame\bin\Debug\PokerGame.pdb
+C:\Users\death\RiderProjects\PokerGame\PokerGame\obj\Debug\PokerGame.csproj.AssemblyReference.cache
+C:\Users\death\RiderProjects\PokerGame\PokerGame\obj\Debug\PokerGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\death\RiderProjects\PokerGame\PokerGame\obj\Debug\PokerGame.csproj.CoreCompileInputs.cache
+C:\Users\death\RiderProjects\PokerGame\PokerGame\obj\Debug\PokerGame.exe
+C:\Users\death\RiderProjects\PokerGame\PokerGame\obj\Debug\PokerGame.pdb
